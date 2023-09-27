@@ -1,3 +1,6 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/andrew-khai/andrew-khai/assets/127797007/1cc43b1c-e301-47df-94b9-5a5e42cec428)
+
+
 ### Hi there! Welcome to my page! 👋
 
 I am a software engineer from Los Angeles, California with a passion for creating seemless code and helping others. I am eager to contribute my unique perspective and skills to projects that make a difference in the world, whether in healthcare or beyond. If you're looking for a software engineer who not only understands the technical aspects but also appreciates the human side of technology, let's connect

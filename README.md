@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 ### Fun Facts
 * I am a huge basketball fan 🏀 My NBA team is the Los Angeles Lakers of course and I try to also play basektball as much as possible since it was my first passion and I've been playing every since I was 5 years old!
 * When I'm not coding I enjoy learning new things/picking up new hobbies. My most recent hobby has been learning how to golf ⛳️ , I can't hit with any club other than a driver but the progress is coming along!
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-khai&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-khai&hide_progress=true)

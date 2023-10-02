@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/andrew-khai/andrew-khai/assets/127797007/1cc43b1c-e301-47df-94b9-5a5e42cec428)
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/andrew-khai/andrew-khai/assets/127797007/ff7aea5c-59d9-49cb-97c7-04ad012c70b9)
 
 
 ### Hi there! Welcome to my page! 👋

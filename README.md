@@ -3,7 +3,11 @@
 
 ### Hi there! Welcome to my page! 👋
 
-I am a software engineer from Los Angeles, California with a passion for creating seemless code and helping others. I am eager to contribute my unique perspective and skills to projects that make a difference in the world, whether in healthcare or beyond. If you're looking for a software engineer who not only understands the technical aspects but also appreciates the human side of technology, let's connect
+I am a software engineer from Los Angeles, California with a passion for creating seemless code and helping others. I am eager to contribute my unique perspective and skills to projects that make a difference in the world, whether in healthcare or beyond. If you're looking for a software engineer who not only understands the technical aspects but also appreciates the human side of technology, let's connect!
+
+### Contact Info:
+
+Email: 1andrew.khai@gmail.com
 
 <!--
 **andrew-khai/andrew-khai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

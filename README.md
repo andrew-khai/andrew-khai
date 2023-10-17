@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 * When I'm not coding I enjoy learning new things/picking up new hobbies. My most recent hobby has been learning how to golf ⛳️ , I can't hit with any club other than a driver but the progress is coming along!
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-khai&show_icons=true&theme=tokyonight)
+<a href='https://github.com/andrew-khai'>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-khai&show_icons=true&theme=tokyonight"/>
+</a>
+<a href='https://github.com/andrew-khai'>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-khai&layout=compact&langs_count=8&card_width=320"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-khai&hide_progress=true)
